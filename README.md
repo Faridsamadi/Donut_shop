@@ -1,16 +1,7 @@
-# doughnut_shop
+This is just a mockup and the functionality willl be added later
 
-A new Flutter project.
+![donut](https://github.com/Faridsamadi/Donut_shop/assets/122729769/2c6f5d01-e2f1-453f-9800-6580491cc176)
 
-## Getting Started
+A Tutorial project done by junior flutter developer "Farid Samadi"
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tutorial author "Mitch Koko"
